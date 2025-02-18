@@ -4,7 +4,7 @@ This repository contains the code associated with the paper:
 Mariken M. de Wit, Gaël Beaunée*, Martha Dellar*, Emmanuelle Münger*, Louie Krol, Nnomzie Atama, Jurrian van Irsel, Henk van der Jeugd, Judith M.A. van den Brand, Chantal Reusken, Marion Koopmans, Mart C.M. de Jong, Reina S. Sikkema, Quirine ten Bosch - **"Silent reservoirs are shaping disease emergence: 
 the case of Usutu virus in the Netherlands"**. The paper has been published in xx.
 
-All code contained within this repository is released under the xxx licence.
+All code contained within this repository is released under the MIT licence.
 
 # Overview
 This code creates spatio-temporal transmission simulation models for vector-borne diseases. These models are fitted to observational data using Approximate Bayesian Computation. After fitting of the model to the data, simulations are performed using posterior estimates and several outbreak-related metrics are calculated to reconstruct the outbreak. The simulation models are built using the SimInf model framework and applied to Usutu virus in the Netherlands.
