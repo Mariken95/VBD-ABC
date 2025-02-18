@@ -22,7 +22,15 @@ The packages should install in a few minutes on a standard computer.
 
 The versions of packages the code has been tested on:
 ```
-matlib_0.9.6       data.table_1.14.10 spatialEco_2.0-2   tmap_3.3-4         readxl_1.4.3       stars_0.6-4        abind_1.4-5        raster_3.6-26      sp_2.1-2           sf_1.0-14          HDInterval_0.2.4   RColorBrewer_1.1-3 ggridges_0.5.4     reshape2_1.4.4     SimInf_9.8.1       scales_1.3.0       patchwork_1.3.0    lubridate_1.9.3    forcats_1.0.0      stringr_1.5.1      dplyr_1.1.2        purrr_1.0.2        readr_2.1.4        tidyr_1.3.0        tibble_3.2.1       ggplot2_3.5.1      tidyverse_2.0.0
+matlib_0.9.6       data.table_1.14.10 spatialEco_2.0-2
+tmap_3.3-4         readxl_1.4.3       stars_0.6-4
+abind_1.4-5        raster_3.6-26      sp_2.1-2
+sf_1.0-14          HDInterval_0.2.4   RColorBrewer_1.1-3
+ggridges_0.5.4     reshape2_1.4.4     SimInf_9.8.1
+scales_1.3.0       patchwork_1.3.0    lubridate_1.9.3
+forcats_1.0.0      stringr_1.5.1      dplyr_1.1.2
+purrr_1.0.2        readr_2.1.4        tidyr_1.3.0
+tibble_3.2.1       ggplot2_3.5.1      tidyverse_2.0.0
 ```  
 
 Running simulations and fitting the models on the HPC requires the installation of the following packages:
